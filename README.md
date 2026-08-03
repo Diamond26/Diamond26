@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**Diamond26/Diamond26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+# Ciao, sono Davide 👋
+ 
+**Freelance Developer** · Cagliari, Sardegna 🇮🇹
+ 
+Web · Android · Desktop · Security
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-davidesecci.com-black?style=flat-square)](https://davidesecci.com)
+ 
+</div>
+---
+ 
+### 🛠️ Stack
+ 
+![Next.js](https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,electron,sqlite,androidstudio,nodejs)
+ 
+Web app · app desktop (Electron/SQLite) · app Android · security/pentesting.
+Costruisco sia prodotti miei che strumenti gestionali su misura per attività locali.
+ 
+---
